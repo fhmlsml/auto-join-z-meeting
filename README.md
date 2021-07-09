@@ -2,6 +2,7 @@
 ## Simple Auto Join Zoom Meeting 
 [![Version](https://img.shields.io/badge/Version-Beta%200.1-red)](https://github.com/fhmlsml/auto-join-z-meeting)
 ---
+_PyAutoGUI soon will be added to pass the continue button after joining if there's a recorded meeting_
 
 ## Important
 Please be warned: After running this script, make sure you are connected to internet until the meeting time started
