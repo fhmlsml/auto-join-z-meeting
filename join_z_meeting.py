@@ -4,7 +4,7 @@ import webbrowser
 import schedule
 import time
 
-url = 'https://your-z-meeting-url.com'
+url = 'https://your-z-meeting-url.com' # Change with your z-meeting url
 
 chrome_path = '/usr/bin/google-chrome' # This path is from linux ubuntu, change your own path
 
